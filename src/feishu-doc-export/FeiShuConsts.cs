@@ -11,6 +11,7 @@ namespace feishu_doc_export
         /// <summary>
         /// 飞书开发接口地址
         /// </summary>
-        public const string OpenApiEndPoint = "https://open.feishu.cn";
+        //public const string OpenApiEndPoint = "https://open.feishu.cn";
+        public const string OpenApiEndPoint = "https://open.larksuite.com";
     }
 }
